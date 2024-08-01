@@ -40,4 +40,18 @@
 "19:30:07.437 [main] INFO  C:\Users\Dell\eclipse-workspace\RestAssuredAutomationFramework - ***************user is deleted *************************
 "19:30:07.439 [main] INFO  C:\Users\Dell\eclipse-workspace\RestAssuredAutomationFramework - ***************Deleting user *************************
 "19:30:08.554 [main] INFO  C:\Users\Dell\eclipse-workspace\RestAssuredAutomationFramework - ***************user is deleted *************************
+"13:05:51.109 [main] INFO  C:\Users\Dell\eclipse-workspace\RestAssuredAutomationFramework - ***************Creating user *************************
+"13:05:54.558 [main] INFO  C:\Users\Dell\eclipse-workspace\RestAssuredAutomationFramework - ***************User is created  *************************
+"13:05:54.570 [main] INFO  C:\Users\Dell\eclipse-workspace\RestAssuredAutomationFramework - ***************Reading User Info *************************
+"13:05:55.680 [main] INFO  C:\Users\Dell\eclipse-workspace\RestAssuredAutomationFramework - ***************User Info is displayed *************************
+"13:05:55.685 [main] INFO  C:\Users\Dell\eclipse-workspace\RestAssuredAutomationFramework - ***************Updating User *************************
+"13:05:57.860 [main] INFO  C:\Users\Dell\eclipse-workspace\RestAssuredAutomationFramework - ***************User is updated *************************
+"13:05:57.864 [main] INFO  C:\Users\Dell\eclipse-workspace\RestAssuredAutomationFramework - ***************Deleting user *************************
+"13:05:59.009 [main] INFO  C:\Users\Dell\eclipse-workspace\RestAssuredAutomationFramework - ***************User is deleted *************************
+"13:06:04.226 [main] INFO  C:\Users\Dell\eclipse-workspace\RestAssuredAutomationFramework - ***************Deleting user *************************
+"13:06:05.333 [main] INFO  C:\Users\Dell\eclipse-workspace\RestAssuredAutomationFramework - ***************user is deleted *************************
+"13:06:05.336 [main] INFO  C:\Users\Dell\eclipse-workspace\RestAssuredAutomationFramework - ***************Deleting user *************************
+"13:06:06.394 [main] INFO  C:\Users\Dell\eclipse-workspace\RestAssuredAutomationFramework - ***************user is deleted *************************
+"13:06:06.397 [main] INFO  C:\Users\Dell\eclipse-workspace\RestAssuredAutomationFramework - ***************Deleting user *************************
+"13:06:07.523 [main] INFO  C:\Users\Dell\eclipse-workspace\RestAssuredAutomationFramework - ***************user is deleted *************************
 "
